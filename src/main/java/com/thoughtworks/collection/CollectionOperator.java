@@ -1,10 +1,8 @@
 package com.thoughtworks.collection;
 
-import com.sun.xml.internal.ws.policy.privateutil.PolicyUtils;
 import sun.reflect.generics.reflectiveObjects.NotImplementedException;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 import java.util.stream.Collectors;
